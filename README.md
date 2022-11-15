@@ -28,6 +28,6 @@ Hi 👋 My name is Zeynep.
 
 <p align="left"> <a href="https://www.github.com/ZeynepYoldaslik" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/zeynepyoldaslik/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 
-<img src="https://media.giphy.com/media/iH6ZjzyLgZSt3j0zzG/giphy.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"
+<img src="https://media4.giphy.com/media/abEzb8xVo9K0psLppI/giphy.gif?cid=790b76112c02916c8771804987b0afc6aa0a7bee66aee005&rid=giphy.gif&ct=s" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"
 alt="IMAGE ALT TEXT HERE" width="340" height="280" border="10" /></a>
 
