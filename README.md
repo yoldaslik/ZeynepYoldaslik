@@ -24,7 +24,7 @@ Hi 👋 My name is Zeynep.
 
 <a href="https://github.com/ZeynepYoldaslik" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZeynepYoldaslik&&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 <img src="https://media2.giphy.com/media/qlnqqyPCxvzbKhYv9i/giphy.gif?cid=790b76116bdf09212795b63c11ee212e5c86cf33312a9749&rid=giphy.gif&ct=s" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"
-alt="IMAGE ALT TEXT HERE" align="right" width="240" height="140" border="10" /></a>
+alt="IMAGE ALT TEXT HERE" align="right" width="300" height="190" border="10" /></a>
 
 ### Socials
 
