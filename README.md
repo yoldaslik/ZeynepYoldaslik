@@ -2,7 +2,7 @@ Hi 👋 My name is Zeynep.
 =======================
 
 * 🌍  I'm based in Bursa
-* 🧠  I'm learning Flutter
+* 🧠  I'm learning Docker
 * ✉️  You can contact me at [zeynepyoldaslik16@gmail.com](mailto:zeynepyoldaslik16@gmail.com)
 
 ### Skills
